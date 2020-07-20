@@ -1,13 +1,13 @@
 <template>
   <v-app>
-    <v-content>
+    <v-main>
       <v-toolbar color="primary">
         <v-toolbar-title>Qiitaで検索するよ！</v-toolbar-title>
       </v-toolbar>
       <v-container>
         <nuxt />
       </v-container>
-    </v-content>
+    </v-main>
   </v-app>
 </template>
 
